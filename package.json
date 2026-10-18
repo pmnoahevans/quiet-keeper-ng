@@ -1,0 +1,11 @@
+{
+  "name": "quiet-keeper-ng",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Platform engineer · Zig and bare metal",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT"
+}
